@@ -12,6 +12,6 @@ python-bitcoinlib==0.5.1
 pyopenssl==19.0.0
 miniupnpc==1.9
 bleach==1.4.3
-html5lib==0.9999999
+html5lib==0.999999999
 service_identity==16.0.0
 certifi==2016.9.26
